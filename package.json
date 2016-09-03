@@ -15,7 +15,11 @@
   ],
   "author": "iceStone <ice@wedn.net> (http://wedn.net/)",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-ui-router": "^0.3.1",
+    "bootstrap": "^3.3.7"
+  },
   "devDependencies": {
     "http-server": "^0.8.5"
   }
