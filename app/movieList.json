@@ -1,0 +1,331 @@
+{
+  "count": 5,
+  "start": 5,
+  "total": 27,
+  "subjects": [
+	{
+	  "rating": {
+		"max": 10,
+		"average": 7.1,
+		"stars": "35",
+		"min": 0
+	  },
+	  "genres": [
+		"剧情",
+		"动作",
+		"运动"
+	  ],
+	  "title": "铁拳",
+	  "casts": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1048002/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/12737.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/12737.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/12737.jpg"
+		  },
+		  "name": "杰克·吉伦哈尔",
+		  "id": "1048002"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1053567/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/40097.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/40097.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/40097.jpg"
+		  },
+		  "name": "福里斯特·惠特克",
+		  "id": "1053567"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1053587/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/538.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/538.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/538.jpg"
+		  },
+		  "name": "瑞秋·麦克亚当斯",
+		  "id": "1053587"
+		}
+	  ],
+	  "collect_count": 18796,
+	  "original_title": "Southpaw",
+	  "subtype": "movie",
+	  "directors": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1013907/",
+		  "avatars": {
+			"small": "http://img3.douban.com/img/celebrity/small/1459145342.51.jpg",
+			"large": "http://img3.douban.com/img/celebrity/large/1459145342.51.jpg",
+			"medium": "http://img3.douban.com/img/celebrity/medium/1459145342.51.jpg"
+		  },
+		  "name": "安东尼·福奎阿",
+		  "id": "1013907"
+		}
+	  ],
+	  "year": "2015",
+	  "images": {
+		"small": "http://img3.douban.com/view/movie_poster_cover/ipst/public/p2376693720.jpg",
+		"large": "http://img3.douban.com/view/movie_poster_cover/lpst/public/p2376693720.jpg",
+		"medium": "http://img3.douban.com/view/movie_poster_cover/spst/public/p2376693720.jpg"
+	  },
+	  "alt": "https://movie.douban.com/subject/5446197/",
+	  "id": "5446197"
+	},
+	{
+	  "rating": {
+		"max": 10,
+		"average": 8.1,
+		"stars": "40",
+		"min": 0
+	  },
+	  "genres": [
+		"剧情",
+		"纪录片"
+	  ],
+	  "title": "我们诞生在中国",
+	  "casts": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1027798/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/7257.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/7257.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/7257.jpg"
+		  },
+		  "name": "周迅",
+		  "id": "1027798"
+		}
+	  ],
+	  "collect_count": 25121,
+	  "original_title": "Born in China",
+	  "subtype": "movie",
+	  "directors": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1005319/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/1368697548.88.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/1368697548.88.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/1368697548.88.jpg"
+		  },
+		  "name": "陆川",
+		  "id": "1005319"
+		}
+	  ],
+	  "year": "2016",
+	  "images": {
+		"small": "http://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2373180408.jpg",
+		"large": "http://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2373180408.jpg",
+		"medium": "http://img3.doubanio.com/view/movie_poster_cover/spst/public/p2373180408.jpg"
+	  },
+	  "alt": "https://movie.douban.com/subject/26376454/",
+	  "id": "26376454"
+	},
+	{
+	  "rating": {
+		"max": 10,
+		"average": 4.9,
+		"stars": "25",
+		"min": 0
+	  },
+	  "genres": [
+		"悬疑",
+		"奇幻",
+		"冒险"
+	  ],
+	  "title": "盗墓笔记",
+	  "casts": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1274628/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/32917.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/32917.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/32917.jpg"
+		  },
+		  "name": "井柏然",
+		  "id": "1274628"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1337001/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/1451933721.86.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/1451933721.86.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/1451933721.86.jpg"
+		  },
+		  "name": "鹿晗",
+		  "id": "1337001"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1275243/",
+		  "avatars": {
+			"small": "http://img3.douban.com/img/celebrity/small/1417875699.12.jpg",
+			"large": "http://img3.douban.com/img/celebrity/large/1417875699.12.jpg",
+			"medium": "http://img3.douban.com/img/celebrity/medium/1417875699.12.jpg"
+		  },
+		  "name": "马思纯",
+		  "id": "1275243"
+		}
+	  ],
+	  "collect_count": 94231,
+	  "original_title": "盗墓笔记",
+	  "subtype": "movie",
+	  "directors": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1275585/",
+		  "avatars": {
+			"small": "http://img3.douban.com/img/celebrity/small/11494.jpg",
+			"large": "http://img3.douban.com/img/celebrity/large/11494.jpg",
+			"medium": "http://img3.douban.com/img/celebrity/medium/11494.jpg"
+		  },
+		  "name": "李仁港",
+		  "id": "1275585"
+		}
+	  ],
+	  "year": "2016",
+	  "images": {
+		"small": "http://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2370646859.jpg",
+		"large": "http://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2370646859.jpg",
+		"medium": "http://img3.doubanio.com/view/movie_poster_cover/spst/public/p2370646859.jpg"
+	  },
+	  "alt": "https://movie.douban.com/subject/24827387/",
+	  "id": "24827387"
+	},
+	{
+	  "rating": {
+		"max": 10,
+		"average": 6.9,
+		"stars": "35",
+		"min": 0
+	  },
+	  "genres": [
+		"剧情",
+		"动作",
+		"犯罪"
+	  ],
+	  "title": "使徒行者",
+	  "casts": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1037273/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/1382184082.17.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/1382184082.17.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/1382184082.17.jpg"
+		  },
+		  "name": "张家辉",
+		  "id": "1037273"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1027577/",
+		  "avatars": {
+			"small": "http://img3.douban.com/img/celebrity/small/1419164245.74.jpg",
+			"large": "http://img3.douban.com/img/celebrity/large/1419164245.74.jpg",
+			"medium": "http://img3.douban.com/img/celebrity/medium/1419164245.74.jpg"
+		  },
+		  "name": "古天乐",
+		  "id": "1027577"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1037098/",
+		  "avatars": {
+			"small": "http://img3.douban.com/img/celebrity/small/1603.jpg",
+			"large": "http://img3.douban.com/img/celebrity/large/1603.jpg",
+			"medium": "http://img3.douban.com/img/celebrity/medium/1603.jpg"
+		  },
+		  "name": "吴镇宇",
+		  "id": "1037098"
+		}
+	  ],
+	  "collect_count": 51609,
+	  "original_title": "使徒行者",
+	  "subtype": "movie",
+	  "directors": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1320763/",
+		  "avatars": {
+			"small": "http://img3.douban.com/img/celebrity/small/1436277330.84.jpg",
+			"large": "http://img3.douban.com/img/celebrity/large/1436277330.84.jpg",
+			"medium": "http://img3.douban.com/img/celebrity/medium/1436277330.84.jpg"
+		  },
+		  "name": "文伟鸿",
+		  "id": "1320763"
+		}
+	  ],
+	  "year": "2016",
+	  "images": {
+		"small": "http://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2369022569.jpg",
+		"large": "http://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2369022569.jpg",
+		"medium": "http://img3.doubanio.com/view/movie_poster_cover/spst/public/p2369022569.jpg"
+	  },
+	  "alt": "https://movie.douban.com/subject/26336253/",
+	  "id": "26336253"
+	},
+	{
+	  "rating": {
+		"max": 10,
+		"average": 3.5,
+		"stars": "20",
+		"min": 0
+	  },
+	  "genres": [
+		"惊悚",
+		"恐怖"
+	  ],
+	  "title": "夜半哭声",
+	  "casts": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1360341/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png",
+			"large": "http://img3.douban.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png",
+			"medium": "http://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+		  },
+		  "name": "刘俐儿",
+		  "id": "1360341"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1322892/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png",
+			"large": "http://img3.douban.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png",
+			"medium": "http://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+		  },
+		  "name": "刘一辰",
+		  "id": "1322892"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1353186/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/1455867461.77.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/1455867461.77.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/1455867461.77.jpg"
+		  },
+		  "name": "秦立洋",
+		  "id": "1353186"
+		}
+	  ],
+	  "collect_count": 117,
+	  "original_title": "夜半哭声",
+	  "subtype": "movie",
+	  "directors": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1360707/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png",
+			"large": "http://img3.douban.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png",
+			"medium": "http://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+		  },
+		  "name": "陆诗雷",
+		  "id": "1360707"
+		}
+	  ],
+	  "year": "2016",
+	  "images": {
+		"small": "http://img3.douban.com/view/movie_poster_cover/ipst/public/p2377514132.jpg",
+		"large": "http://img3.douban.com/view/movie_poster_cover/lpst/public/p2377514132.jpg",
+		"medium": "http://img3.douban.com/view/movie_poster_cover/spst/public/p2377514132.jpg"
+	  },
+	  "alt": "https://movie.douban.com/subject/26851206/",
+	  "id": "26851206"
+	}
+  ],
+  "title": "正在上映的电影-北京"
+}
