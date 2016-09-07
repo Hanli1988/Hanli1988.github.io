@@ -3,7 +3,7 @@
  */
 angular.module('config',[])
 	.constant('configConstant',{
-		SERVER_PATH:'http://api.douban.com',
+		SERVER_PATH:'https://api.douban.com',
 		PORT:'8008',
 		VERSION:'0.1'
 	})
