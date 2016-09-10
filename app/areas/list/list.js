@@ -13,7 +13,8 @@ angular.module('listModule.controller',['listModule.service'])
 			start:0,
 			current:1,
 			totalCount:0,
-			totalPage:0
+			totalPage:0,
+			city:"上海"
 		}
 		  $scope.goForward=function(){
 
@@ -34,7 +35,7 @@ angular.module('listModule.controller',['listModule.service'])
 		  }
           $scope.getData=function(){
 		  $scope.loading=true;
-			  listFactory.getData({count:5,start:$scope.page.count*($scope.page.current-1)},$scope.page.type,function(data){
+			  listFactory.getData({city:"上海",count:5,start:$scope.page.count*($scope.page.current-1)},$scope.page.type,function(data){
 			  $scope.moviesList=data;
 
 			  $scope.loading=false;
